@@ -1,4 +1,4 @@
-## YOOOO! 👋
+## YOOOO WELCOME! 👋
 
 # 💫 About Me:
 - I'm an official FIFA Super Soccer content creator with over 5,000 Subscribers!<br>- A Full Stack Developer that knows node.js, SQAlquemy, and Flask<br>- Love music production<br>- Know the basics such as HTML, CSS, and Javascript<br>- Created my own online store (justdeony.com)
